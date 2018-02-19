@@ -1,0 +1,20 @@
+import zlib
+import zipfile
+1 compress
+2 decompress
+
+import urllib2  #connect to internet
+import oauth2  #authorization
+
+f=urllib2.urlopen
+
+pypi.python.org/pypi
+
+import pandas
+import scikit-learn    sklearn
+import numpy
+import matplotlib
+import NLTK
+import Theano
+import tensorflow
+
